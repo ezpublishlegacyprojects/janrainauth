@@ -3,4 +3,7 @@
 [RoleSettings]
 PolicyOmitList[]=janrain/login
 
+[RegionalSettings]
+TranslationExtensions[]=janrainauth
+
 */
