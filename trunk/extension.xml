@@ -12,5 +12,8 @@
 	       <extension name="ezjscore"/>
 	       <extension name="sqliimport"/>
 	   </requires>
+	   <extends>
+	       <extension name="ezwebin"/>
+	   </extends>
 	</dependencies>
 </software>
