@@ -7,7 +7,8 @@
      $languageMap = ezini( 'LanguageSettings', 'LanguageMap', 'janrain.ini' )
      $languageCode = ezini( 'LanguageSettings', 'DefaultLanguage', 'janrain.ini' )
      $linkClass = ezini( 'ModalSettings', 'SigninLinkClass', 'janrain.ini' )
-     $defaultProvider = ezini( 'GeneralSettings', 'DefaultProvider', 'janrain.ini' )}
+     $defaultProvider = ezini( 'GeneralSettings', 'DefaultProvider', 'janrain.ini' )
+     $showProviderList = ezini( 'GeneralSettings', 'AlwaysShowProviderList', 'janrain.ini' )}
 {if is_set( $languageMap[$currentLocaleCode] )}{set $languageCode = $languageMap[$currentLocaleCode]}{/if}
 <script type="text/javascript">
   var rpxJsHost = (("https:" == document.location.protocol) ? "https://" : "http://static.");
@@ -20,6 +21,10 @@
 {if $defaultProvider}
   
   RPXNOW.default_provider = '{$defaultProvider}';
+{/if}
+{if $showProviderList|eq( 'enabled' )}
+  
+  RPXNOW.flags = 'show_provider_list';
 {/if}
   
   $(document).ready(function(){ldelim}
