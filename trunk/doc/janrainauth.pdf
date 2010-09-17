@@ -1,0 +1,738 @@
+%PDF-1.3
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+% 'BasicFonts': class PDFDictionary 
+1 0 obj
+% The standard fonts dictionary
+<< /F1 2 0 R
+ /F2 3 0 R
+ /F3 4 0 R
+ /F4 17 0 R >>
+endobj
+% 'F1': class PDFType1Font 
+2 0 obj
+% Font Helvetica
+<< /BaseFont /Helvetica
+ /Encoding /WinAnsiEncoding
+ /Name /F1
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'F2': class PDFType1Font 
+3 0 obj
+% Font Helvetica-Bold
+<< /BaseFont /Helvetica-Bold
+ /Encoding /WinAnsiEncoding
+ /Name /F2
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'F3': class PDFType1Font 
+4 0 obj
+% Font Helvetica-Oblique
+<< /BaseFont /Helvetica-Oblique
+ /Encoding /WinAnsiEncoding
+ /Name /F3
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'Annot.NUMBER1': class LinkAnnotation 
+5 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 18 0 R
+ /XYZ
+ 62.69291
+ 557.0236
+ 0 ]
+ /Rect [ 62.69291
+ 647.5936
+ 141.0329
+ 659.5936 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER2': class LinkAnnotation 
+6 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 18 0 R
+ /XYZ
+ 62.69291
+ 557.0236
+ 0 ]
+ /Rect [ 527.0227
+ 647.5936
+ 532.5827
+ 659.5936 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER3': class LinkAnnotation 
+7 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 18 0 R
+ /XYZ
+ 62.69291
+ 476.0236
+ 0 ]
+ /Rect [ 62.69291
+ 629.5936
+ 106.5829
+ 641.5936 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER4': class LinkAnnotation 
+8 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 18 0 R
+ /XYZ
+ 62.69291
+ 476.0236
+ 0 ]
+ /Rect [ 527.0227
+ 629.5936
+ 532.5827
+ 641.5936 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER5': class LinkAnnotation 
+9 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 18 0 R
+ /XYZ
+ 62.69291
+ 425.0236
+ 0 ]
+ /Rect [ 62.69291
+ 611.5936
+ 96.03291
+ 623.5936 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER6': class LinkAnnotation 
+10 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 18 0 R
+ /XYZ
+ 62.69291
+ 425.0236
+ 0 ]
+ /Rect [ 527.0227
+ 611.5936
+ 532.5827
+ 623.5936 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER7': class LinkAnnotation 
+11 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 18 0 R
+ /XYZ
+ 62.69291
+ 326.0236
+ 0 ]
+ /Rect [ 82.69291
+ 593.5936
+ 189.3929
+ 605.5936 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER8': class LinkAnnotation 
+12 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 18 0 R
+ /XYZ
+ 62.69291
+ 326.0236
+ 0 ]
+ /Rect [ 527.0227
+ 593.5936
+ 532.5827
+ 605.5936 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER9': class LinkAnnotation 
+13 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 18 0 R
+ /XYZ
+ 62.69291
+ 224.0236
+ 0 ]
+ /Rect [ 62.69291
+ 575.5936
+ 98.25291
+ 587.5936 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER10': class LinkAnnotation 
+14 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 18 0 R
+ /XYZ
+ 62.69291
+ 224.0236
+ 0 ]
+ /Rect [ 527.0227
+ 575.5936
+ 532.5827
+ 587.5936 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER11': class PDFDictionary 
+15 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.janrain.com) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 235.5429
+ 491.5936
+ 308.3629
+ 503.5936 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER12': class PDFDictionary 
+16 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.janrain.com) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 397.3129
+ 389.5936
+ 467.3529
+ 401.5936 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'F4': class PDFType1Font 
+17 0 obj
+% Font Courier
+<< /BaseFont /Courier
+ /Encoding /WinAnsiEncoding
+ /Name /F4
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'Page1': class PDFPage 
+18 0 obj
+% Page dictionary
+<< /Annots [ 5 0 R
+ 6 0 R
+ 7 0 R
+ 8 0 R
+ 9 0 R
+ 10 0 R
+ 11 0 R
+ 12 0 R
+ 13 0 R
+ 14 0 R
+ 15 0 R
+ 16 0 R ]
+ /Contents 29 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 28 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Page2': class PDFPage 
+19 0 obj
+% Page dictionary
+<< /Contents 30 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 28 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'R20': class PDFCatalog 
+20 0 obj
+% Document Root
+<< /Outlines 22 0 R
+ /PageLabels 31 0 R
+ /PageMode /UseNone
+ /Pages 28 0 R
+ /Type /Catalog >>
+endobj
+% 'R21': class PDFInfo 
+21 0 obj
+<< /Author ()
+ /CreationDate (D:20100917151727-01'00')
+ /Keywords ()
+ /Producer (ReportLab http://www.reportlab.com)
+ /Subject (\(unspecified\))
+ /Title (Janrain Auth Documentation) >>
+endobj
+% 'R22': class PDFOutlines 
+22 0 obj
+<< /Count 6
+ /First 23 0 R
+ /Last 27 0 R
+ /Type /Outlines >>
+endobj
+% 'Outline.0': class OutlineEntryObject 
+23 0 obj
+<< /Dest [ 18 0 R
+ /XYZ
+ 62.69291
+ 557.0236
+ 0 ]
+ /Next 24 0 R
+ /Parent 22 0 R
+ /Title (PRESENTATION) >>
+endobj
+% 'Outline.1': class OutlineEntryObject 
+24 0 obj
+<< /Dest [ 18 0 R
+ /XYZ
+ 62.69291
+ 476.0236
+ 0 ]
+ /Next 25 0 R
+ /Parent 22 0 R
+ /Prev 23 0 R
+ /Title (LICENCE) >>
+endobj
+% 'Outline.2': class OutlineEntryObject 
+25 0 obj
+<< /Count 1
+ /Dest [ 18 0 R
+ /XYZ
+ 62.69291
+ 425.0236
+ 0 ]
+ /First 26 0 R
+ /Last 26 0 R
+ /Next 27 0 R
+ /Parent 22 0 R
+ /Prev 24 0 R
+ /Title (SETUP) >>
+endobj
+% 'Outline.6.0': class OutlineEntryObject 
+26 0 obj
+<< /Dest [ 18 0 R
+ /XYZ
+ 62.69291
+ 326.0236
+ 0 ]
+ /Parent 25 0 R
+ /Title (User related information) >>
+endobj
+% 'Outline.3': class OutlineEntryObject 
+27 0 obj
+<< /Dest [ 18 0 R
+ /XYZ
+ 62.69291
+ 224.0236
+ 0 ]
+ /Parent 22 0 R
+ /Prev 25 0 R
+ /Title (USAGE) >>
+endobj
+% 'R28': class PDFPages 
+28 0 obj
+% page tree
+<< /Count 2
+ /Kids [ 18 0 R
+ 19 0 R ]
+ /Type /Pages >>
+endobj
+% 'R29': class PDFStream 
+29 0 obj
+% page stream
+<< /Length 6270 >>
+stream
+1 0 0 1 0 0 cm BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 741.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 9.64 Tm /F2 20 Tf 24 TL 98.26488 0 Td (Janrain Auth Documentation) Tj T* -98.26488 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 719.0236 cm
+q
+BT 1 0 0 1 0 4.82 Tm 12 TL /F3 10 Tf 0 0 0 rg (Version 1.0 - 2010 Jerome Vieilledent) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 713.0236 cm
+Q
+q
+1 0 0 1 62.69291 698.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F2 10 Tf 12 TL 48.03937 0 Td (Date:) Tj T* -48.03937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (2010/08/26) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 665.0236 cm
+q
+BT 1 0 0 1 0 8.435 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Table of contents) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 569.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 0 75 cm
+q
+BT 1 0 0 1 0 4.82 Tm 12 TL /F2 10 Tf 0 0 .501961 rg (PRESENTATION) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 75 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 4.82 Tm /F2 10 Tf 12 TL 66.44 0 Td (1) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 57 cm
+q
+BT 1 0 0 1 0 4.82 Tm 12 TL /F2 10 Tf 0 0 .501961 rg (LICENCE) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 57 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 4.82 Tm /F2 10 Tf 12 TL 66.44 0 Td (1) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 39 cm
+q
+BT 1 0 0 1 0 4.82 Tm 12 TL /F2 10 Tf 0 0 .501961 rg (SETUP) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 39 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 4.82 Tm /F2 10 Tf 12 TL 66.44 0 Td (1) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 21 cm
+q
+BT 1 0 0 1 20 4.82 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (User related information) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 21 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 66.44 0 Td (1) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 3 cm
+q
+BT 1 0 0 1 0 4.82 Tm 12 TL /F2 10 Tf 0 0 .501961 rg (USAGE) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 3 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 4.82 Tm /F2 10 Tf 12 TL 66.44 0 Td (1) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 536.0236 cm
+q
+BT 1 0 0 1 0 8.435 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (PRESENTATION) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 506.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.82 Tm /F1 10 Tf 12 TL 1.779398 Tw (Janrain Auth allows you to let your website users to log into your eZ Publish powered application by) Tj T* 0 Tw (signing in their preferred social network such as Facebook, Twitter and Google.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 488.0236 cm
+q
+BT 1 0 0 1 0 4.82 Tm 12 TL /F1 10 Tf 0 0 0 rg (This extension is an implementation of ) Tj 0 0 .501961 rg (Janrain Engage ) Tj 0 0 0 rg (\(formerly RPX\) authentication framework.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 455.0236 cm
+q
+BT 1 0 0 1 0 8.435 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (LICENCE) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 437.0236 cm
+q
+BT 1 0 0 1 0 4.82 Tm 12 TL /F1 10 Tf 0 0 0 rg (This eZ Publish extension is provided ) Tj /F3 10 Tf (as is) Tj /F1 10 Tf (, in GPL v2 \(see LICENCE\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 404.0236 cm
+q
+BT 1 0 0 1 0 8.435 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (SETUP) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 386.0236 cm
+q
+BT 1 0 0 1 0 4.82 Tm 12 TL /F1 10 Tf 0 0 0 rg (In order to use this extension, you will first need to create an account and a ) Tj 0 0 .501961 rg (Janrain Engage) Tj 0 0 0 rg ( ) Tj /F3 10 Tf (application) Tj /F1 10 Tf (.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 356.0236 cm
+q
+BT 1 0 0 1 0 16.82 Tm .053984 Tw 12 TL /F1 10 Tf 0 0 0 rg (Once your ) Tj /F3 10 Tf (Janrain Engage ) Tj /F1 10 Tf (application set up, get your ) Tj /F2 10 Tf (API key) Tj /F1 10 Tf (, ) Tj /F2 10 Tf (Application ID ) Tj /F1 10 Tf (and ) Tj /F2 10 Tf (Application Domain) Tj T* 0 Tw /F1 10 Tf (to insert them in an override of ) Tj /F2 10 Tf (janrain.ini ) Tj /F1 10 Tf (config file.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 338.0236 cm
+q
+BT 1 0 0 1 0 4.82 Tm 12 TL /F1 10 Tf 0 0 0 rg (Check comments in ) Tj /F2 10 Tf (janrain.ini ) Tj /F1 10 Tf (file for more info about customization.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 308.0236 cm
+q
+BT 1 0 0 1 0 7.23 Tm 18 TL /F2 15 Tf 0 0 0 rg (User related information) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 278.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.82 Tm /F1 10 Tf 12 TL 1.515868 Tw (Janrain Auth will create a valid eZ Publish user once the internet user has been authenticated on the) Tj T* 0 Tw (chosen social network.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 236.0236 cm
+q
+BT 1 0 0 1 0 28.82 Tm .295697 Tw 12 TL /F1 10 Tf 0 0 0 rg (The content class to use for user creation is managed by ) Tj /F2 10 Tf (site.ini ) Tj /F1 10 Tf ([UserSettings].UserClassID setting. You) Tj T* 0 Tw .326235 Tw (can also map user information returned by Janrain to user content object attribute. You can configure this) Tj T* 0 Tw (map in an override of ) Tj /F2 10 Tf (janrain.ini) Tj /F1 10 Tf (, [UserSettings].AuthInfoMap) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 203.0236 cm
+q
+BT 1 0 0 1 0 8.435 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (USAGE) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 161.0236 cm
+q
+BT 1 0 0 1 0 28.82 Tm 9.418976 Tw 12 TL /F1 10 Tf 0 0 0 rg (This extension is usable out-of-the-box with ezwebin/ezflow. It provides ) Tj /F2 10 Tf (login.tpl ) Tj /F1 10 Tf (and) Tj T* 0 Tw .388651 Tw /F2 10 Tf (page_footer_script.tpl ) Tj /F1 10 Tf (template overrides. In order to be able to trigger the modal login window, you will) Tj T* 0 Tw (need to setup a link with a ) Tj /F2 10 Tf (rpxnow ) Tj /F1 10 Tf (class and the right Href :) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 115.8236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 36 re B*
+Q
+q
+BT 1 0 0 1 0 17.71 Tm 12 TL /F4 10 Tf 0 0 0 rg ({def $signinURL = fetch\( 'janrain', 'signin_url' \)}) Tj T* (<) Tj (a class="rpxnow" href="{$signinURL}") Tj (>) Tj ( Sign In ) Tj (<) Tj (/a) Tj (>) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 83.82362 cm
+q
+BT 1 0 0 1 0 16.82 Tm .634104 Tw 12 TL /F1 10 Tf 0 0 0 rg (You will also need to include modal script template at the bottom of your page \(before <) Tj (/body) Tj (>) Tj (\) \(already) Tj T* 0 Tw (included for ezwebin/ezflow powered websites\) :) Tj T* ET
+Q
+Q
+ 
+endstream
+
+endobj
+% 'R30': class PDFStream 
+30 0 obj
+% page stream
+<< /Length 340 >>
+stream
+1 0 0 1 0 0 cm BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 739.8236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 24 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 5.71 Tm /F4 10 Tf 12 TL ({include uri='design:janrain/modalscript.tpl'}) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+ 
+endstream
+
+endobj
+% 'R31': class PDFPageLabels 
+31 0 obj
+% Document Root
+<< /Nums [ 0
+ 32 0 R
+ 1
+ 33 0 R ] >>
+endobj
+% 'R32': class PDFPageLabel 
+32 0 obj
+% None
+<< /S /D
+ /St 1 >>
+endobj
+% 'R33': class PDFPageLabel 
+33 0 obj
+% None
+<< /S /D
+ /St 2 >>
+endobj
+xref
+0 34
+0000000000 65535 f
+0000000113 00000 n
+0000000246 00000 n
+0000000411 00000 n
+0000000586 00000 n
+0000000780 00000 n
+0000001021 00000 n
+0000001262 00000 n
+0000001503 00000 n
+0000001744 00000 n
+0000001985 00000 n
+0000002227 00000 n
+0000002469 00000 n
+0000002711 00000 n
+0000002954 00000 n
+0000003196 00000 n
+0000003438 00000 n
+0000003667 00000 n
+0000003827 00000 n
+0000004222 00000 n
+0000004503 00000 n
+0000004662 00000 n
+0000004900 00000 n
+0000005025 00000 n
+0000005198 00000 n
+0000005381 00000 n
+0000005606 00000 n
+0000005776 00000 n
+0000005926 00000 n
+0000006043 00000 n
+0000012414 00000 n
+0000012858 00000 n
+0000012964 00000 n
+0000013041 00000 n
+trailer
+<< /ID 
+ % ReportLab generated PDF document -- digest (http://www.reportlab.com) 
+ [(D\037E0\234\327B%o$\324\017\247D\341\237) (D\037E0\234\327B%o$\324\017\247D\341\237)] 
+
+ /Info 21 0 R
+ /Root 20 0 R
+ /Size 34 >>
+startxref
+13088
+%%EOF

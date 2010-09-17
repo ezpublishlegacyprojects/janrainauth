@@ -4,15 +4,16 @@
 
 1. Install *janrainauth* folder in *extension/*
 2. Activate the extension in an override of **site.ini**
-3. Regenerate autoloads for classes
+3. Open an account on Janrain (http://www.janrain.com). Basic account is free.
+4. Set up your account by choosing your service providers (Google, Facebook...)
+5. Get your API Key, ApplicationID, Application Domain and insert them in an override of janrain.ini config file (see comments in the file) 
+4. Regenerate autoloads for classes
 
 ::
   php bin/php/ezpgenerateautoloads.php -e -p
 
-4. Clear all Caches
+5. Clear all Caches
 
 ::
   php bin/php/ezcache.php --clear-tag=ini
   php bin/php/ezcache.php --clear-all
-
-5. You are now ready to use Janrain Auth. 
