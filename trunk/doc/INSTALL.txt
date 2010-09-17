@@ -1,0 +1,18 @@
+===========================
+ Janrain Auth Installation
+===========================
+
+1. Install *janrainauth* folder in *extension/*
+2. Activate the extension in an override of **site.ini**
+3. Regenerate autoloads for classes
+
+::
+  php bin/php/ezpgenerateautoloads.php -e -p
+
+4. Clear all Caches
+
+::
+  php bin/php/ezcache.php --clear-tag=ini
+  php bin/php/ezcache.php --clear-all
+
+5. You are now ready to use Janrain Auth. 
