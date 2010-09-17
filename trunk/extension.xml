@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<software>
+	<metadata>
+		<name>Janrain Auth</name>
+		<version>@@@VERSION@@@</version>
+		<copyright>Copyright © 2010 Jerome Vieilledent</copyright>
+		<license>GNU General Public License v2.0</license>
+		<info_url>http://projects.ez.no/janrainauth</info_url>
+	</metadata>
+	<dependencies>
+	   <requires>
+	       <extension name="ezjscore"/>
+	       <extension name="sqliimport"/>
+	   </requires>
+	</dependencies>
+</software>
