@@ -15,6 +15,8 @@ Janrain Auth allows you to let your website users to log into your eZ Publish po
 by signing in their preferred social network such as Facebook, Twitter and Google.
 
 This extension is an implementation of `Janrain Engage <http://www.janrain.com>`_ (formerly RPX) authentication framework.
+It has a dependency on `SQLI Import <http://projects.ez.no/sqliimport`_  for its content API, so you'll need to 
+install it before using Janrain Auth
 
 
 ---------

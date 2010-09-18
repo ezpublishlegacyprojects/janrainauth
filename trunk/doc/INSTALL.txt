@@ -2,6 +2,9 @@
  Janrain Auth Installation
 ===========================
 
+**Attention :** Please note that Janrain Auth has a dependency on SQLI Import (http://projects.ez.no/sqliimport)
+for its content API. So you'll need first to install it.
+
 1. Install *janrainauth* folder in *extension/*
 2. Activate the extension in an override of **site.ini**
 3. Open an account on Janrain (http://www.janrain.com). Basic account is free.
