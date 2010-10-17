@@ -1,8 +1,8 @@
 {*ezscript_require( 'ezjsc::jquery' )*}
 {def $applicationDomain = ezini( 'GeneralSettings', 'ApplicationDomain', 'janrain.ini' )
      $siteURL = ezini( 'SiteSettings', 'SiteURL' )
-     $securedTokenURL = ezini( 'GeneralSettings', 'SecuredTokenURL', 'janrain.ini' )
-     $tokenURLProtocol = cond( $securedTokenURL|eq( 'enabled' ), 'http', 'https' )
+     $securedTokenURL = ezini( 'GeneralSettings', 'SecuredURL', 'janrain.ini' )
+     $tokenURLProtocol = cond( $securedTokenURL|eq( 'enabled' ), 'https', 'http' )
      $currentLocaleCode = fetch( 'content', 'locale' ).locale_code
      $languageMap = ezini( 'LanguageSettings', 'LanguageMap', 'janrain.ini' )
      $languageCode = ezini( 'LanguageSettings', 'DefaultLanguage', 'janrain.ini' )

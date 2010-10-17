@@ -1,3 +1,9 @@
+1.0 stable
+-----------------
+Fixed inverted $protocol definition in embeddedscript.tpl and modalscript.tpl (thanks Thiago) - http://bit.ly/9pQRXg
+Fixed missing token URI (/janrain/login) in embeddedscript.tpl (thanks Thiago again)
+Fixed bad INI param call in modalscript.tpl
+
 1.0alpha1
 -----------------
 Initial alpha release
